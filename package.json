@@ -1,0 +1,8 @@
+{
+  "name": "p4k",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:prichey/p4k.git",
+  "author": "Preston Richey <prestonleerichey@gmail.com>",
+  "license": "MIT"
+}
